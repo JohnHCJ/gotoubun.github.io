@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background: #ffc0cb;
+    color: #fff;
+    font-size: 40px;
+}
+
+.caps{
+    margin: 20px;
+}
+
+.cap-1{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-1 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-2{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-2 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-3{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-3 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-4{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-4 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-5{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-5 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-6{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-6 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-7{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-7 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-8{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-8 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-9{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-9 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-10{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-10 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-11{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-11 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.cap-12{
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #000;
+    padding: 10px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cap-12 h3{
+    color: #ff8599;
+    font-size: 25px;
+}
+
+.volver a{
+    font-size: 25px;
+    display: inline-block;
+	padding: 10px 50px;
+	margin-top: 10px;
+	text-decoration: none;
+	color: #ff4c6a;
+	border: 1px solid #ff8599;
+	border-radius: 4px;
+	transition: all 400ms ease;
+	margin-bottom: 5px;
+}
+
+.volver a:hover{
+    background: #ff8599;
+	color: #fff;
+}
